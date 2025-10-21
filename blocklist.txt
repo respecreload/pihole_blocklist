@@ -1,5 +1,3 @@
-RegEx filter:
-(\w+.)*(sendgrid)(.nwt)
 (^|\.)ads?\.
 (^|\.)adserver\.
 (^|\.)advertising\.
@@ -41,8 +39,6 @@ RegEx filter:
 (^|\.)secure\.netflix\.com$
 (^|\.)nflxext\.com$
 (^|\.)nflxvideo\.net$
-
-Prime Video:
 (^|\.)ads?\.
 (^|\.)adserver\.
 (^|\.)advertising\.
@@ -78,3 +74,4 @@ Prime Video:
 (^|\.)fls\.amazon\.de$
 (^|\.)aax-eu\.amazon-adsystem\.com$
 (^|\.)smetrics\.primevideo\.com$
+(\w+.)*(sendgrid)(.nwt)
